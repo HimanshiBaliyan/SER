@@ -123,3 +123,6 @@ For more information or to contribute to this project, please contact:
 
 - **GitHub**: [HimanshiBaliyan](https://HimanshiBaliyan)
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
